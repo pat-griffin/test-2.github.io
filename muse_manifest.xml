@@ -1,0 +1,202 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pat-griffin.github.io" resolutions="1x" timestamp="1504621168037">
+  <folder name="css">
+    <file name="site_global.css" crc="441445582"/>
+    <file name="master_main-master.css" crc="4143635560" ref="04_kansas-city:contribute:01_chicago:index:03_denver:02_los-angeles"/>
+    <file name="nomq_preview_master_main-master.css" crc="3773004753" ref="04_kansas-city:contribute:01_chicago:index:03_denver:02_los-angeles"/>
+    <file name="04_kansas-city.css" crc="3824710074" ref="04_kansas-city"/>
+    <file name="nomq_04_kansas-city.css" crc="4052493038" ref="04_kansas-city"/>
+    <file name="contribute.css" crc="236674410" ref="contribute"/>
+    <file name="nomq_contribute.css" crc="482881562" ref="contribute"/>
+    <file name="01_chicago.css" crc="311801492" ref="01_chicago"/>
+    <file name="nomq_01_chicago.css" crc="303224119" ref="01_chicago"/>
+    <file name="index.css" crc="211684684" ref="index"/>
+    <file name="nomq_index.css" crc="468203694" ref="index"/>
+    <file name="03_denver.css" crc="296858279" ref="03_denver"/>
+    <file name="nomq_03_denver.css" crc="4072905105" ref="03_denver"/>
+    <file name="02_los-angeles.css" crc="3824710074" ref="02_los-angeles"/>
+    <file name="nomq_02_los-angeles.css" crc="4052493038" ref="02_los-angeles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="museutils.js" crc="4216313831" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="whatinput.js" crc="86476730" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="webpro.js" crc="4143865194" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="form_check.php" crc="154010282" ref="03_denver"/>
+    <file name="form_throttle.php" crc="266437015" ref="03_denver"/>
+    <file name="form_process.php" crc="512629711" ref="03_denver"/>
+    <file name="form-u123825.php" crc="4007850929" ref="03_denver"/>
+    <file name="html5shiv.js" crc="4241844378" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="require.js" crc="3951022091" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="contribute"/>
+    <file name="form-u208260.php" crc="217533608" ref="contribute"/>
+  </folder>
+  <folder name="images">
+    <file name="ico_ham.svg" crc="496736174" ref="03_denver:contribute:02_los-angeles"/>
+    <file name="ico_ham_poster_u182437.png" crc="11301426" ref="03_denver:contribute:02_los-angeles"/>
+    <file name="ico_ham_close.svg" crc="528877227" ref="03_denver:contribute:02_los-angeles"/>
+    <file name="ico_ham_close_poster_u182444.png" crc="4203631480" ref="03_denver:contribute:02_los-angeles"/>
+    <file name="blank.gif" crc="4208392903" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index"/>
+    <file name="logo_facebook.svg" crc="4103272628" seo="true" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="logo_facebook_poster_.png" crc="3933861098" ref="03_denver"/>
+    <file name="logo_pinterest.svg" crc="4832361" seo="true" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="logo_pinterest_poster_.png" crc="4013695578" ref="03_denver"/>
+    <file name="logo_twitter.svg" crc="3859533551" seo="true" ref="03_denver:contribute:02_los-angeles:01_chicago:04_kansas-city:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="03_denver" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="02_los-angeles" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="04_kansas-city" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="logo_twitter_poster_.png" crc="253241921" ref="03_denver"/>
+    <file name="sphere-01.svg" crc="4106340502" seo="true" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-01_poster_.png" crc="3967354280" ref="contribute"/>
+    <file name="sphere-02.svg" crc="378077307" seo="true" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-02_poster_.png" crc="132301014" ref="contribute"/>
+    <file name="checkboxunchecked.png" crc="3953652346" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.png" crc="32437065" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.png" crc="41320463" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="checkboxchecked.png" crc="4243906595" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.png" crc="4168856179" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.png" crc="4190422059" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-05.svg" crc="3765921118" seo="true" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-05_poster_.png" crc="72229182" ref="contribute"/>
+    <file name="sphere-03.svg" crc="4266574306" seo="true" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-03_poster_.png" crc="3839265442" ref="contribute"/>
+    <file name="sphere-04.svg" crc="152838848" seo="true" ref="contribute">
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="contribute" alt=""/>
+    </file>
+    <file name="sphere-04_poster_.png" crc="4185321535" ref="contribute"/>
+    <file name="griffin portrait.jpg" crc="71896273" seo="true" ref="01_chicago">
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+      <caption webpage="01_chicago" alt=""/>
+    </file>
+    <file name="noun_38243.png" crc="3770658332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_38245.png" crc="205482728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_38244.png" crc="347671678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_38252.png" crc="3772920807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_38251.png" crc="247379808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_38246.png" crc="3847522931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="03_denver.html" crc="390604377" seo="true" mt="1504620439519" redirect="true"/>
+  <file name="contribute.html" crc="4089477649" seo="true" mt="1504620439519" redirect="true"/>
+  <file name="02_los-angeles.html" crc="3809913490" seo="true" mt="1504620439519" redirect="true"/>
+  <file name="01_chicago.html" crc="34931200" seo="true" mt="1504620439519" redirect="true"/>
+  <file name="04_kansas-city.html" crc="314789207" seo="true" mt="1504620439519" redirect="true"/>
+  <file name="index.html" crc="3792453778" seo="true" mt="1504620599603" redirect="true"/>
+</manifest>
